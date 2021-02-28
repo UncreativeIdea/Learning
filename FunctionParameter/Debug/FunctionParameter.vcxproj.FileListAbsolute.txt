@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\FunctionParameter\Debug\FunctionParameter.exe
+C:\Users\danie\source\repos\FunctionParameter\Debug\FunctionParameter.pdb

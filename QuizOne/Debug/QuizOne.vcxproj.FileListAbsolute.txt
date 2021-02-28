@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\QuizOne\Debug\QuizOne.exe
+C:\Users\danie\source\repos\QuizOne\Debug\QuizOne.pdb

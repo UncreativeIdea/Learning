@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\MoreParameters\Debug\MoreParameters.exe
+C:\Users\danie\source\repos\MoreParameters\Debug\MoreParameters.pdb

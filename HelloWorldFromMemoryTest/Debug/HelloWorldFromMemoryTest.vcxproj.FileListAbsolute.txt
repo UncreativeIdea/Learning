@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\HelloWorldFromMemoryTest\Debug\HelloWorldFromMemoryTest.exe
+C:\Users\danie\source\repos\HelloWorldFromMemoryTest\Debug\HelloWorldFromMemoryTest.pdb

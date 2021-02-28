@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\GetValueFromUserFunctiomn\Debug\GetValueFromUserFunction.exe
+C:\Users\danie\source\repos\GetValueFromUserFunctiomn\Debug\GetValueFromUserFunction.pdb

@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\ParameterExamples\Debug\ParameterExamples.exe
+C:\Users\danie\source\repos\ParameterExamples\Debug\ParameterExamples.pdb
